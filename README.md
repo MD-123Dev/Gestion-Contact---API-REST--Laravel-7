@@ -7,9 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Composantes du projet 
-
-+ CRUD with Api REST
 
 
 ## About Laravel
@@ -25,6 +22,10 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+## Composantes du projet 
+
++ CRUD with Api REST
 
 ## Learning Laravel
 
